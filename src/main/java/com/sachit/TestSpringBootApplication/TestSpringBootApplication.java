@@ -16,7 +16,7 @@ public class TestSpringBootApplication {
 		return "You are welcome";
 	}
 
-
+	//main method started
 	public static void main(String[] args) {
 		SpringApplication.run(TestSpringBootApplication.class, args);
 	}
